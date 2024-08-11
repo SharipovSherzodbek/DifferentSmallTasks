@@ -1,2 +1,3 @@
-# DifferentSmallTasks
-Tasks from Mohir Dev
+# Tasks from Mohir Dev 
+#Basic Tanlash #3
+
